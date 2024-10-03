@@ -1,0 +1,12 @@
+#content {
+    font-size: 20px;
+    color: green; /* Initial color is green */
+}
+
+.hidden {
+    display: none;
+}
+
+.red {
+    color: red;
+}
